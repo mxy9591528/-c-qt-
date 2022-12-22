@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS commodity(
+    type TINYINT NOT NULL,
+    name VARCHAR(30) NOT NULL,
+    price DOUBLE NOT NULL,
+    num INT NOT NULL,
+    brand VARCHAR(30) NOT NULL,
+    producer VARCHAR(50) NOT NULL
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;

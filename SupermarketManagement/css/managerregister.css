@@ -1,0 +1,43 @@
+QPushButton
+{
+	color:white;
+	background-color:rgb(14 , 150 , 254);
+	border-radius:5px;
+    min-height: 30px;
+}
+
+QPushButton:hover
+{
+	color:white;
+	background-color:rgb(44 , 137 , 255);
+}
+
+QPushButton:pressed
+{
+	color:white;
+	background-color:rgb(14 , 135 , 228);
+	padding-left:3px;
+	padding-top:3px;
+}
+QLineEdit
+{
+	background:white;
+    padding-left:5px ;
+	padding-top:1px ;
+    border-bottom-left-radius:3px;
+    border-bottom-right-radius:3px;
+	border: 1px solid rgb(209 , 209 , 209);
+    border-top:transparent;
+    min-height: 25px;
+}
+QLineEdit:hover
+{
+	padding-top:0px ;
+    border: 1px solid rgb(21 , 131 , 221);
+}
+QWidget#label_img{
+    min-height: 100px;
+    max-height: 100px;
+    min-width: 100px;
+    max-width: 100px;s
+}

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bookManage.png</file>
+        <file>img/borrowManage.png</file>
+        <file>img/library.jpg</file>
+        <file>img/logo.png</file>
+        <file>img/regist.jpg</file>
+        <file>img/statisticsManage.png</file>
+        <file>img/systemManage.png</file>
+        <file>img/userManage.png</file>
+    </qresource>
+</RCC>

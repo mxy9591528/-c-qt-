@@ -1,0 +1,19 @@
+# ninja log v5
+67	163	0	D:/Qt_data/build-project3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	f2e3dd762127f1ae
+50	1814	6864886130273390	project3_autogen/mocs_compilation.cpp	57bb7f5db0f47acd
+50	1814	6864886130273390	D:/Qt_data/build-project3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project3_autogen/timestamp	57bb7f5db0f47acd
+4964	13510	6864885654090226	CMakeFiles/project3.dir/project3_autogen/mocs_compilation.cpp.obj	ccff3a8adcac0739
+50	1814	6864886130273390	project3_autogen/timestamp	57bb7f5db0f47acd
+50	1814	6864886130273390	D:/Qt_data/build-project3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project3_autogen/mocs_compilation.cpp	57bb7f5db0f47acd
+1934	9417	6864886206333832	CMakeFiles/project3.dir/mainwindow.cpp.obj	9bb02549607f0948
+4999	13893	6864885657902727	CMakeFiles/project3.dir/main.cpp.obj	f226156b781520b8
+9419	9945	6864886211554525	project3.exe	a78df1f12715a745
+42	114	0	D:/Qt_data/build-project3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	f2e3dd762127f1ae
+36	1283	6864886878566208	project3_autogen/timestamp	57bb7f5db0f47acd
+36	1283	6864886878566208	project3_autogen/mocs_compilation.cpp	57bb7f5db0f47acd
+36	1283	6864886878566208	D:/Qt_data/build-project3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project3_autogen/timestamp	57bb7f5db0f47acd
+36	1283	6864886878566208	D:/Qt_data/build-project3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project3_autogen/mocs_compilation.cpp	57bb7f5db0f47acd
+1399	7608	6864886941804504	CMakeFiles/project3.dir/mainwindow.cpp.obj	9bb02549607f0948
+7610	8196	6864886947583250	project3.exe	a78df1f12715a745
+42	203	0	D:/Qt_data/build-project3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	f2e3dd762127f1ae
+14	42	0	D:/Qt_data/build-project3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	f2e3dd762127f1ae

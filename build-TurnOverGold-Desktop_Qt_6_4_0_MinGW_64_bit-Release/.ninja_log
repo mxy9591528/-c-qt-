@@ -1,0 +1,18 @@
+# ninja log v5
+530	2330	6869169473235731	CMakeFiles/TurnOverGold.dir/mainscene.cpp.obj	da82f0b11f5f128c
+14	45	0	D:/Qt_data/build-TurnOverGold-Desktop_Qt_6_4_0_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	7e9abe2cd68e926b
+11	492	6869169454845074	D:/Qt_data/build-TurnOverGold-Desktop_Qt_6_4_0_MinGW_64_bit-Release/TurnOverGold_autogen/timestamp	8fee41b8fac3438d
+3538	3832	6869161939494914	TurnOverGold_autogen/EWIEGA46WW/qrc_src.cpp	af6a7af83bc48223
+11	492	6869169454845074	TurnOverGold_autogen/timestamp	8fee41b8fac3438d
+11	492	6869169454845074	TurnOverGold_autogen/mocs_compilation.cpp	8fee41b8fac3438d
+3538	3832	6869161939494914	D:/Qt_data/build-TurnOverGold-Desktop_Qt_6_4_0_MinGW_64_bit-Release/TurnOverGold_autogen/EWIEGA46WW/qrc_src.cpp	af6a7af83bc48223
+3871	9751	6869161998369059	CMakeFiles/TurnOverGold.dir/mycoin.cpp.obj	4784d9e60d5d33ca
+11	492	6869169454845074	D:/Qt_data/build-TurnOverGold-Desktop_Qt_6_4_0_MinGW_64_bit-Release/TurnOverGold_autogen/mocs_compilation.cpp	8fee41b8fac3438d
+3854	9774	6869161998525314	CMakeFiles/TurnOverGold.dir/mypushbutton.cpp.obj	2cbf7d892a004bdb
+3913	9800	6869161999213459	CMakeFiles/TurnOverGold.dir/dataconfig.cpp.obj	b4e1ccab29184224
+3880	10804	6869162009320954	CMakeFiles/TurnOverGold.dir/levelchoicescene.cpp.obj	e260c615d1be0308
+3846	10817	6869162009450381	CMakeFiles/TurnOverGold.dir/main.cpp.obj	e3fd2a15e8601e3c
+3833	11179	6869162012972895	CMakeFiles/TurnOverGold.dir/TurnOverGold_autogen/mocs_compilation.cpp.obj	51dc906703ceeca
+3862	12081	6869162021998845	CMakeFiles/TurnOverGold.dir/playscene.cpp.obj	eee490cdaf24bc8f
+3921	12344	6869162024602704	CMakeFiles/TurnOverGold.dir/TurnOverGold_autogen/EWIEGA46WW/qrc_src.cpp.obj	d114d62db51d4220
+12345	12874	6869162029865883	TurnOverGold.exe	837da303020b1864

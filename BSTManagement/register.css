@@ -1,0 +1,21 @@
+QPushButton {
+    border-radius: 6;
+    color: white;
+    background-color: #34495e;
+}
+QLabel {
+    color: #34495e;
+}
+QLabel#make_btn {
+    color: #34495e;
+    font-size:22;
+}
+QLabel#cancel_btn {
+    color: #34495e;
+    font-size:22;
+}
+QLineEdit {
+    border: 2px solid #bdc3c7;
+    min-height: 24;
+    border-radius: 6;
+}

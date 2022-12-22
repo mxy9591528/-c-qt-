@@ -1,0 +1,28 @@
+QFrame#frame{
+    border-image: url(:/img1/img/background.jpg);
+}
+QLabel#title_label{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "微软雅黑";
+    color: #F0E68C;
+}
+QPushButton{
+    font-size: 14px;
+    font-family: "宋体";
+    background-color:rgba(100,225,100,30);
+    border-style:outset;
+    border-width:3px;
+    border-radius:5px;
+    border-color:rgba(255,255,255,30);
+    color:#E6E6FA;
+    padding:6px;
+}
+QPushButton:hover{
+    background-color:#d8e6a6;
+    border-color:rgba(255,255,255,200);
+    color:rgba(0,0,0,200);
+}
+QDialog{
+    border-image: url(:/img1/img/wechat.jpg);
+}

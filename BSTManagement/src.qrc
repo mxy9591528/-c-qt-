@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Img/LoginWindowTitle.jpg</file>
+        <file>Img/Admin.jpg</file>
+        <file>Img/Search.png</file>
+        <file>login.css</file>
+        <file>main.css</file>
+        <file>register.css</file>
+    </qresource>
+</RCC>

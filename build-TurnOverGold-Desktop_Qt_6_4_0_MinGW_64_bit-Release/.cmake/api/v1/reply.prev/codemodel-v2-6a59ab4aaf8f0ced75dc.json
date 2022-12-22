@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-0364d71cada5c3cbe442.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TurnOverGold",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TurnOverGold::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TurnOverGold-Release-a6c70bacc9302acd3d9e.json",
+					"name" : "TurnOverGold",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TurnOverGold_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TurnOverGold_autogen-Release-cf7d503d17bb3af339a0.json",
+					"name" : "TurnOverGold_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TurnOverGold_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TurnOverGold_autogen_timestamp_deps-Release-5428e281780f0ced134d.json",
+					"name" : "TurnOverGold_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt_data/build-TurnOverGold-Desktop_Qt_6_4_0_MinGW_64_bit-Release",
+		"source" : "D:/Qt_data/TurnOverGold"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

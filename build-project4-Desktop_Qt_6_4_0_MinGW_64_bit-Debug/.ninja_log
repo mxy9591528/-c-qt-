@@ -1,0 +1,21 @@
+# ninja log v5
+15	54	0	D:/Qt_data/build-project4-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	7432ac9670c4a345
+16	420	6864905745637919	D:/Qt_data/build-project4-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project4_autogen/mocs_compilation.cpp	412822e468e6832f
+16	420	6864905745637919	project4_autogen/timestamp	412822e468e6832f
+455	2758	6864905769003714	CMakeFiles/project4.dir/mainwindow.cpp.obj	f73d6271bd7cf930
+16	420	6864905745637919	project4_autogen/mocs_compilation.cpp	412822e468e6832f
+16	420	6864905745637919	D:/Qt_data/build-project4-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project4_autogen/timestamp	412822e468e6832f
+1387	4099	6864901855892546	CMakeFiles/project4.dir/project4_autogen/mocs_compilation.cpp.obj	4e3b31e631e6b761
+1397	4448	6864901859384708	CMakeFiles/project4.dir/main.cpp.obj	5e2b6633dc68bbfb
+2759	3052	6864905771912241	project4.exe	71b5892ae9ccd18d
+12	46	0	D:/Qt_data/build-project4-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	7432ac9670c4a345
+11	421	6864912816423658	project4_autogen/timestamp	412822e468e6832f
+11	421	6864912816423658	project4_autogen/mocs_compilation.cpp	412822e468e6832f
+11	421	6864912816423658	D:/Qt_data/build-project4-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project4_autogen/timestamp	412822e468e6832f
+11	421	6864912816423658	D:/Qt_data/build-project4-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project4_autogen/mocs_compilation.cpp	412822e468e6832f
+453	682	6864912818960992	project4_autogen/EWIEGA46WW/qrc_src.cpp	4d7a79ae5596c1ad
+453	682	6864912818960992	D:/Qt_data/build-project4-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project4_autogen/EWIEGA46WW/qrc_src.cpp	4d7a79ae5596c1ad
+686	3206	6864912844259061	CMakeFiles/project4.dir/mainwindow.cpp.obj	f73d6271bd7cf930
+682	5803	6864912870234673	CMakeFiles/project4.dir/project4_autogen/EWIEGA46WW/qrc_src.cpp.obj	934d0f0298779043
+5803	6168	6864912873830854	project4.exe	743b137439b2af0a
+11	49	0	D:/Qt_data/build-project4-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	7432ac9670c4a345

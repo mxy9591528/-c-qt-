@@ -1,0 +1,13 @@
+debug/loginwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/makeuser.o
+debug/modify.o
+debug/stusql.o
+debug/qrc_src.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_loginwindow.o
+debug/moc_mainwindow.o
+debug/moc_makeuser.o
+debug/moc_modify.o
+debug/moc_stusql.o

@@ -1,0 +1,15 @@
+# ninja log v5
+22	626	6871118536124795	project2_autogen/mocs_compilation.cpp	ab0d71cafcf0909f
+15	63	0	D:/Qt_data/build-project2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c128d561947978ca
+2387	5263	6864809252832147	CMakeFiles/project2.dir/main.cpp.obj	3333db6eecbd8400
+22	626	6871118536124795	D:/Qt_data/build-project2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project2_autogen/timestamp	ab0d71cafcf0909f
+22	626	6871118536124795	project2_autogen/timestamp	ab0d71cafcf0909f
+22	626	6871118536124795	D:/Qt_data/build-project2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project2_autogen/mocs_compilation.cpp	ab0d71cafcf0909f
+2393	5229	6864809252499716	CMakeFiles/project2.dir/project2_autogen/mocs_compilation.cpp.obj	59c5508bcc21745d
+660	3147	6871118561334925	CMakeFiles/project2.dir/widget.cpp.obj	f98718345ac4196f
+3147	3497	6871118564805843	project2.exe	ff01330006f63290
+38	988	6864701156133772	build.ninja	b814c196e75ad39f
+3686	10068	6864715300277611	CMakeFiles/project2.dir/teacher.cpp.obj	dc02142b30553ced
+1361	6331	6864716724496974	CMakeFiles/project2.dir/student.cpp.obj	523d07ce5698aa9
+17	61	0	D:/Qt_data/build-project2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c128d561947978ca
+10	38	0	D:/Qt_data/build-project2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c128d561947978ca

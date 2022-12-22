@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "D:/Qt_data/build-project10-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project10_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Qt_data/build-project10-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Qt_data/build-project10-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Qt_data/project10",
+	"CMAKE_SOURCE_DIR" : "D:/Qt_data/project10",
+	"INCLUDE_DIR" : "D:/Qt_data/build-project10-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project10_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Qt_data/project10/img/statisticsManage.png",
+		"D:/Qt_data/project10/img/systemManage.png",
+		"D:/Qt_data/project10/img/regist.jpg",
+		"D:/Qt_data/project10/img/logo.png",
+		"D:/Qt_data/project10/img/borrowManage.png",
+		"D:/Qt_data/project10/img/bookManage.png",
+		"D:/Qt_data/project10/img/userManage.png",
+		"D:/Qt_data/project10/img/library.jpg",
+		"E:/u/video/\u534e\u5f3a\u4e70\u74dc\uff08\u539f\u7248\uff09.mp4"
+	],
+	"LOCK_FILE" : "D:/Qt_data/build-project10-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/project10_autogen.dir/AutoRcc_src_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "src" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_src.cpp",
+	"RCC_EXECUTABLE" : "D:/qt/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Qt_data/build-project10-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/project10_autogen.dir/AutoRcc_src_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Qt_data/project10/src.qrc",
+	"VERBOSITY" : 0
+}

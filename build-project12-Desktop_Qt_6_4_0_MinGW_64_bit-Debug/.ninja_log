@@ -1,0 +1,26 @@
+# ninja log v5
+20	76	0	D:/Qt_data/build-project12-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b55cf544eccbb6dd
+24	770	6866460447166613	project12_autogen/mocs_compilation.cpp	dc63bdb6740ee3e7
+2369	7891	6866458605241117	CMakeFiles/project12.dir/project12_autogen/mocs_compilation.cpp.obj	8ff3d6b6d6445f15
+24	770	6866460447166613	project12_autogen/timestamp	dc63bdb6740ee3e7
+24	770	6866460447166613	D:/Qt_data/build-project12-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project12_autogen/timestamp	dc63bdb6740ee3e7
+2385	7778	6866458604090661	CMakeFiles/project12.dir/mylabel.cpp.obj	16de10183561daa4
+24	770	6866460447166613	D:/Qt_data/build-project12-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project12_autogen/mocs_compilation.cpp	dc63bdb6740ee3e7
+2378	7622	6866458602535177	CMakeFiles/project12.dir/main.cpp.obj	5ead3ea7b5c7e043
+828	4222	6866460481713402	CMakeFiles/project12.dir/widget.cpp.obj	192e5c1201fdcccb
+4223	4550	6866460484930027	project12.exe	5cbff0faf7627253
+38	85	0	D:/Qt_data/build-project12-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b55cf544eccbb6dd
+23	824	6866461353974863	project12_autogen/timestamp	dc63bdb6740ee3e7
+23	824	6866461353974863	project12_autogen/mocs_compilation.cpp	dc63bdb6740ee3e7
+23	824	6866461353974863	D:/Qt_data/build-project12-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project12_autogen/timestamp	dc63bdb6740ee3e7
+23	824	6866461353974863	D:/Qt_data/build-project12-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project12_autogen/mocs_compilation.cpp	dc63bdb6740ee3e7
+891	5473	6866461400475704	CMakeFiles/project12.dir/widget.cpp.obj	192e5c1201fdcccb
+5474	5947	6866461405150616	project12.exe	5cbff0faf7627253
+23	74	0	D:/Qt_data/build-project12-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b55cf544eccbb6dd
+24	666	6866461775176161	project12_autogen/timestamp	dc63bdb6740ee3e7
+24	666	6866461775176161	project12_autogen/mocs_compilation.cpp	dc63bdb6740ee3e7
+24	666	6866461775176161	D:/Qt_data/build-project12-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project12_autogen/timestamp	dc63bdb6740ee3e7
+24	666	6866461775176161	D:/Qt_data/build-project12-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/project12_autogen/mocs_compilation.cpp	dc63bdb6740ee3e7
+709	3487	6866461803387037	CMakeFiles/project12.dir/widget.cpp.obj	192e5c1201fdcccb
+3487	3812	6866461806605704	project12.exe	5cbff0faf7627253
+12	45	0	D:/Qt_data/build-project12-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b55cf544eccbb6dd

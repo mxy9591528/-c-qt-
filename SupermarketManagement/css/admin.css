@@ -1,0 +1,49 @@
+QLabel{
+    font-size: 14px;
+    font-family: "黑体";
+    font-weight: bold;
+}
+QWidget#admin{
+    background-color:#330867;
+}
+QWidget#widget{
+    background-color:#a6c1ee;
+    border: 3px solid black;
+    border-style: outset;
+}
+QLabel#title_label{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "微软雅黑";
+    font-style: italic;
+}
+QWidget#widget_6{
+    background-color: #87CEFA;
+}
+QTableWidget#tableWidget {
+    border: 3px solid black;
+    /* font-size: 14px;
+    font-family: "微软雅黑";
+    font-weight: bold;*/
+}
+QLineEdit {
+    border-radius: 3;
+    border: 1px solid #330867;
+    min-height: 20px;
+}
+QPushButton{
+    font-size: 14px;
+    font-family: "宋体";
+    background-color:white;
+    border-style:outset;
+    border-width:3px;
+    border-radius:5px;
+    border-color:rgba(255,255,255,30);
+    color:black;
+    padding:6px;
+}
+QPushButton:hover{
+    background-color:#d8e6a6;
+    border-color:rgba(255,255,255,200);
+    color:rgba(0,0,0,200);
+}

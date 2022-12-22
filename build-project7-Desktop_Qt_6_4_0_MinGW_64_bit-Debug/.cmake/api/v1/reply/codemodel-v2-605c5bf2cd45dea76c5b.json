@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-27c1dcf692d18573c597.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "project7",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "project7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project7-Debug-c6a3ae9b572355aeed35.json",
+					"name" : "project7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project7_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project7_autogen-Debug-d0b8c1d42df26212251f.json",
+					"name" : "project7_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project7_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project7_autogen_timestamp_deps-Debug-3b6d45362b81a6b03ef3.json",
+					"name" : "project7_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt_data/build-project7-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "D:/Qt_data/project7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

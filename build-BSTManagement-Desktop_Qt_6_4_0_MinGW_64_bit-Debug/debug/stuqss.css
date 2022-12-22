@@ -1,0 +1,47 @@
+/*QPushButton{
+    border-radius:6;
+    color:white;
+    background-color:#34495e;
+}
+QLabel {
+    color: #34495e;
+}
+QLabel#login_btn {
+    color: #34495e;
+    font-size:22;
+}
+QLabel#register_btn {
+    color: #34495e;
+    font-size:22;
+}
+QLineEdit{
+    border:2px solid #bdc3c7;
+    min-height:24;
+    border-radius:6;
+}
+QWidget#widget_2 {
+    background-color: #34495e;
+}*/
+
+QLabel{color:white}
+QTreeWidget#treeWidget { background-color: rgba(52,73,94,220);color:white;font-size:18px;border:1px solid gray;}
+QWidget#widget_2 {background-color: #34495e;}
+QTableWidget#tableWidget{border:1px solid gray;}
+QLineEdit{border-radius:6;border:1px solid #398072;min-height:28px;}
+QCheckBox{color:#34495e;}
+QHeaderView::section
+{
+    color:black;
+    font-size:14px;
+    font-weight:bold;
+    text-align:center;
+    height:30px;
+    color:#909399;
+    border:1px solid gray;
+    border-left:none;
+}
+QTableWidget::item{
+    font:14px "Î¢ÈíºÚÌå";
+    color:#677483;
+    border:none;
+}

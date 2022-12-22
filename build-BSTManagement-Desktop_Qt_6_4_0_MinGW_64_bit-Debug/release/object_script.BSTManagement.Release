@@ -1,0 +1,13 @@
+release/loginwindow.o
+release/main.o
+release/mainwindow.o
+release/makeuser.o
+release/modify.o
+release/stusql.o
+release/qrc_src.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_loginwindow.o
+release/moc_mainwindow.o
+release/moc_makeuser.o
+release/moc_modify.o
+release/moc_stusql.o
